@@ -4,7 +4,7 @@ A container based on [walm/docker-base](https://github.com/walm/docker-base)
 
 ## Includes
 
-  * Node.js (0.10.25 from ppa:chris-lea/node.js)
+  * Node.js (0.10.25)
 
 ## Usage
 

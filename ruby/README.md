@@ -4,7 +4,7 @@ A container based on [walm/docker-ruby](https://github.com/walm/docker-ruby)
 
 ## Includes
 
-  * Node.js (0.10.25 from ppa:chris-lea/node.js)
+  * Node.js (0.10.25)
   * And all from [walm/docker-ruby:0.1.0](https://github.com/walm/docker-ruby)
 
 ## Usage
