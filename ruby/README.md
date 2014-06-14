@@ -1,11 +1,11 @@
 # Node.js docker image with Ruby
 
-A container based on [walm/docker-ruby](https://github.com/walm/docker-ruby)
+A container based on [walm/ruby](https://github.com/walm/docker-ruby)
 
 ## Includes
 
   * Node.js (0.10.25)
-  * And all from [walm/docker-ruby:0.1.0](https://github.com/walm/docker-ruby)
+  * And all from [walm/ruby:0.1.0](https://github.com/walm/docker-ruby)
 
 ## Usage
 
